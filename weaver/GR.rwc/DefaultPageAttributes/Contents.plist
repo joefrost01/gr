@@ -53,6 +53,7 @@
 					<array>
 						<string>Banner Background.Saturate</string>
 						<string>Content Width.Pixels</string>
+						<string>Navigation.Logo</string>
 					</array>
 				</dict>
 				<key>Variables</key>

@@ -16,7 +16,7 @@
 					<key>page0 - file:///Users/josephfrost/code/gr/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-06-03T15:16:12Z</date>
+						<date>2023-06-03T15:20:12Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -25,11 +25,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								kZEyEtyxEvP4
-								wq24fmtsKA==
+								x3oTkYvHSQxu
+								Me2kG20UYw==
 								</data>
 								<key>Size</key>
-								<integer>4058</integer>
+								<integer>4060</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -42,7 +42,7 @@
 					<key>page1 - file:///Users/josephfrost/code/gr/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-06-03T15:16:12Z</date>
+						<date>2023-06-03T15:20:12Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -51,11 +51,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								8Mqilmv6M6fr
-								gmxdx8YmyQ==
+								VEsV51DTZXQv
+								SjJHbjMddQ==
 								</data>
 								<key>Size</key>
-								<integer>7595</integer>
+								<integer>7597</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -94,7 +94,7 @@
 					<key>rw:document:extrafiles - file:///Users/josephfrost/code/gr/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-06-03T15:16:12Z</date>
+						<date>2023-06-03T15:20:12Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -108,6 +108,16 @@
 								</data>
 								<key>Size</key>
 								<integer>105481</integer>
+							</dict>
+							<key>rw_common/images/default.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								U6LGzWBNFTLW
+								KphAybPxQw==
+								</data>
+								<key>Size</key>
+								<integer>235084</integer>
 							</dict>
 							<key>rw_common/version.txt</key>
 							<dict>
@@ -342,7 +352,7 @@
 					<key>rw:theme:Climate - file:///Users/josephfrost/code/gr/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-06-03T14:55:47Z</date>
+						<date>2023-06-03T15:20:12Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -351,11 +361,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								qKBOg+VFtHfr
-								E4+ttn7DIQ==
+								EkfCcwDd4LDW
+								NoJz+V1ehA==
 								</data>
 								<key>Size</key>
-								<integer>178728</integer>
+								<integer>178829</integer>
 							</dict>
 							<key>images/banners/default.jpg</key>
 							<dict>
@@ -505,7 +515,7 @@
 				MTNFLTRGMDEtQTRGQS1BQjI2NzhGNTM5OEZdR1JfT3Jh
 				bmdlLnBuZ18QJDg2QkNDMDE1LTJFOEItNDU2QS05NDVD
 				LTlGM0RBMTVFQjEzQtIATwAPAFAAUVdOUy50aW1lI0HF
-				FchesbMYgA7SACYAJwBTAFRWTlNEYXRlogBTACvTAA0A
+				FcjWYkidgA7SACYAJwBTAFRWTlNEYXRlogBTACvTAA0A
 				DgAPAFYAWABaoQBXgBChAFmAEYASXxAiZmlsZTovLy9V
 				c2Vycy9qb3NlcGhmcm9zdC9jb2RlL2dyLwjSACYAJwBe
 				AF9fEBNOU011dGFibGVEaWN0aW9uYXJ5owBeAGAAK1xO
@@ -523,7 +533,7 @@
 				IABtAGUAZQB0AGkAbgBnACAAcABhAGkAbgB0AGUAZAAg
 				AGIAeQAgAEIAYQBuAGsAcwB5AC4AcABuAGdfECQ2RTk2
 				NDVCNC00MTAzLTQzM0ItODgyMi1EMDIzMTQ4RkFERUXS
-				AE8ADwB1AFEjQcUVyF6xs1uADtMADQAOAA8AeAB6AFqh
+				AE8ADwB1AFEjQcUVyNZiSMeADtMADQAOAA8AeAB6AFqh
 				AHmAG6EAWYARgBJfECJmaWxlOi8vL1VzZXJzL2pvc2Vw
 				aGZyb3N0L2NvZGUvZ3Iv0gAPAH8AgACBWU5TLnN0cmlu
 				Z4AdbxCLAC8AVQBzAGUAcgBzAC8AagBvAHMAZQBwAGgA
@@ -541,7 +551,7 @@
 				QjAtNzYwRS00MTJCLUI3NzItNkU1QjU2NUUyMUYwXxAQ
 				d2hpdGUtZmVkb3JhLnBuZ18QJEVFQjlCMTcwLTdGOTEt
 				NEY0NS1CMDQzLTc2MjVDQ0Y0OTMzNNIATwAPAJUAUSNB
-				xRXIXrGzbIAO0wANAA4ADwCYAJoAWqEAmYAkoQBZgBGA
+				xRXI1mJI2IAO0wANAA4ADwCYAJoAWqEAmYAkoQBZgBGA
 				El8QImZpbGU6Ly8vVXNlcnMvam9zZXBoZnJvc3QvY29k
 				ZS9nci9fEC0vVXNlcnMvam9zZXBoZnJvc3QvRG93bmxv
 				YWRzL3doaXRlLWZlZG9yYS5wbmfaADkAOgAPADsAPAA9
@@ -549,7 +559,7 @@
 				gACAAIArgCiAJ4AqgClfECQyMUU2RDU0RC04MjY3LTRG
 				MkMtOUI0QS1EREIwNTc0OTMxNzFfEBF5ZWxsb3ctZmVk
 				b3JhLnBuZ18QJEJEMUY1QTA3LTdEMjMtNEQ2MS1BNThE
-				LTY0M0ZFMUZERUEwNNIATwAPAK4AUSNBxRXIXrGzhYAO
+				LTY0M0ZFMUZERUEwNNIATwAPAK4AUSNBxRXI1mJI6YAO
 				0wANAA4ADwCxALMAWqEAsoAsoQBZgBGAEl8QImZpbGU6
 				Ly8vVXNlcnMvam9zZXBoZnJvc3QvY29kZS9nci9fEC4v
 				VXNlcnMvam9zZXBoZnJvc3QvRG93bmxvYWRzL3llbGxv
@@ -558,7 +568,7 @@
 				gC+AMoAxXxAkREU5NjNGMEEtNEVGMS00Q0FELUE1MTAt
 				MUU1MDdBMTY3OTU2XxAQYmxhY2stZmVkb3JhLnBuZ18Q
 				JDM2RTZGQUJFLUE3RjItNDlBRi04MjNBLUNFM0Y5MDZF
-				QjcwRdIATwAPAMcAUSNBxRXIXrGzloAO0wANAA4ADwDK
+				QjcwRdIATwAPAMcAUSNBxRXI1mJI+YAO0wANAA4ADwDK
 				AMwAWqEAy4A0oQBZgBGAEl8QImZpbGU6Ly8vVXNlcnMv
 				am9zZXBoZnJvc3QvY29kZS9nci9fEC0vVXNlcnMvam9z
 				ZXBoZnJvc3QvRG93bmxvYWRzL2JsYWNrLWZlZG9yYS5w
@@ -567,7 +577,7 @@
 				NzlBNTcxRC03NTZFLTQ5NzQtQjlBQS0wNTdEMzQzNzQ5
 				MDFecmVkLWZlZG9yYS5wbmdfECRGMUZGOTNFMi03NzM5
 				LTQwQTctOEE0My05OTYzMTNFMTNGNEbSAE8ADwDgAFEj
-				QcUVyF6xs7eADtMADQAOAA8A4wDlAFqhAOSAPKEAWYAR
+				QcUVyNZiSQqADtMADQAOAA8A4wDlAFqhAOSAPKEAWYAR
 				gBJfECJmaWxlOi8vL1VzZXJzL2pvc2VwaGZyb3N0L2Nv
 				ZGUvZ3IvXxArL1VzZXJzL2pvc2VwaGZyb3N0L0Rvd25s
 				b2Fkcy9yZWQtZmVkb3JhLnBuZ9oAOQA6AA8AOwA8AD0A
@@ -575,7 +585,7 @@
 				AIAAgEOAQIA/gEKAQV8QJDY4QTUzMzdCLTU3OEMtNEM2
 				QS1CMTlELUUzMDNCNTE1RUQwRl8QEGdyZWVuLWZlZG9y
 				YS5wbmdfECRCODc4NEJFMy1CRTIzLTRCNzctQjAyNy1E
-				OTBGOEQ0ODMzQkXSAE8ADwD5AFEjQcUVyF6xs9CADtMA
+				OTBGOEQ0ODMzQkXSAE8ADwD5AFEjQcUVyNZiSRuADtMA
 				DQAOAA8A/AD+AFqhAP2ARKEAWYARgBJfECJmaWxlOi8v
 				L1VzZXJzL2pvc2VwaGZyb3N0L2NvZGUvZ3IvXxAtL1Vz
 				ZXJzL2pvc2VwaGZyb3N0L0Rvd25sb2Fkcy9ncmVlbi1m
@@ -584,7 +594,7 @@
 				SoBJXxAkMjVCMzM4MzYtMzc4NS00NUY4LTk3RkQtQzcx
 				MzlGMTBGQTM3XxAPYmx1ZS1mZWRvcmEucG5nXxAkMTYx
 				M0EwRjItQ0M2Mi00MjczLUIyRUItMTVDQ0YyMDFBNkEw
-				0gBPAA8BEgBRI0HFFchesbPhgA7TAA0ADgAPARUBFwBa
+				0gBPAA8BEgBRI0HFFcjWYkk0gA7TAA0ADgAPARUBFwBa
 				oQEWgEyhAFmAEYASXxAiZmlsZTovLy9Vc2Vycy9qb3Nl
 				cGhmcm9zdC9jb2RlL2dyL18QLC9Vc2Vycy9qb3NlcGhm
 				cm9zdC9Eb3dubG9hZHMvYmx1ZS1mZWRvcmEucG5n2gA5
@@ -594,7 +604,7 @@
 				dGNoXxAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0
 				Y2g/dj1VWjh2RjhIUldFNNMBKwAPASwARAEuASZXTlMu
 				YmFzZVtOUy5yZWxhdGl2ZYAAgFOAUdIAJgAnATEBMlVO
-				U1VSTKIBMQAr0gBPAA8BNABRI0HFFchesbPygA7TAA0A
+				U1VSTKIBMQAr0gBPAA8BNABRI0HFFcjWYklFgA7TAA0A
 				DgAPATcBOQBaoQE4gFahAFmAEYASXxAiZmlsZTovLy9V
 				c2Vycy9qb3NlcGhmcm9zdC9jb2RlL2dyL9IAJgAnAT4B
 				P1xSV1NpdGVGb2xkZXKiAUAAK1xSV1NpdGVGb2xkZXLS
@@ -626,8 +636,6 @@
 					<true/>
 					<key>AnonymiseThirdPartyRequests</key>
 					<false/>
-					<key>BannerIdentifier</key>
-					<string>5F44266F-613E-4F01-A4FA-AB2678F5398F</string>
 					<key>BaseURL</key>
 					<string>https://gr-pandas.netlify.app/</string>
 					<key>ConsolidateCSSFiles</key>
@@ -637,7 +645,7 @@
 					<key>ContactText</key>
 					<string></string>
 					<key>CopyrightText</key>
-					<string>© 2023 GR</string>
+					<string></string>
 					<key>CopyrightTextUsed</key>
 					<false/>
 					<key>CruftlessLinksEnabled</key>
@@ -762,6 +770,8 @@
 					<false/>
 					<key>ShowPrivacyMessage</key>
 					<false/>
+					<key>SiteLogoAltText</key>
+					<string>GR</string>
 					<key>SiteLogoIdentifier</key>
 					<string>5F44266F-613E-4F01-A4FA-AB2678F5398F</string>
 					<key>SloganText</key>
@@ -786,7 +796,7 @@
 					<string></string>
 					<key>globalCSS</key>
 					<string>#hero {
-	height: 1vh;
+	height: 10vh;
 }
 </string>
 					<key>globalHeader</key>
