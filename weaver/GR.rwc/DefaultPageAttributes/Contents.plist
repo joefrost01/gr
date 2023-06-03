@@ -51,7 +51,7 @@
 				<dict>
 					<key>Climate</key>
 					<array>
-						<string>Banner Background.Saturate</string>
+						<string>Banner Background.Contrast</string>
 						<string>Content Width.Pixels</string>
 						<string>Navigation.Logo</string>
 					</array>
@@ -60,8 +60,12 @@
 				<dict>
 					<key>%banner_filter_amount%</key>
 					<string>200</string>
+					<key>%body_font_size%</key>
+					<string>18</string>
 					<key>%content_width%</key>
 					<string>12</string>
+					<key>%sidebar_width%</key>
+					<string>0</string>
 				</dict>
 			</dict>
 			<key>Files</key>

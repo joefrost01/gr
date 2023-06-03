@@ -16,7 +16,7 @@
 					<key>page0 - file:///Users/josephfrost/code/gr/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-06-03T15:20:12Z</date>
+						<date>2023-06-03T15:53:19Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -25,11 +25,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								x3oTkYvHSQxu
-								Me2kG20UYw==
+								pwJhYb7jHN6p
+								gU5nmrf2Ug==
 								</data>
 								<key>Size</key>
-								<integer>4060</integer>
+								<integer>3676</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -42,7 +42,7 @@
 					<key>page1 - file:///Users/josephfrost/code/gr/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-06-03T15:20:12Z</date>
+						<date>2023-06-03T15:53:19Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -51,11 +51,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								VEsV51DTZXQv
-								SjJHbjMddQ==
+								NQXviCgxPEdV
+								3Cch38uXnw==
 								</data>
 								<key>Size</key>
-								<integer>7597</integer>
+								<integer>7213</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -65,36 +65,10 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
-					<key>page2 - file:///Users/josephfrost/code/gr/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2023-06-03T13:20:23Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>index.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								riybDr+8wIwc
-								ZU55FIdpUw==
-								</data>
-								<key>Size</key>
-								<integer>3611</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page2</string>
-						<key>SiteRoot</key>
-						<string>blog-2</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>rw:document:extrafiles - file:///Users/josephfrost/code/gr/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-06-03T15:20:12Z</date>
+						<date>2023-06-03T15:53:19Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -133,11 +107,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								lYTy2fAeJ49q
-								8hk9Mdt/6w==
+								YQ8aKQY9EK3Q
+								mw3JTFfiKQ==
 								</data>
 								<key>Size</key>
-								<integer>311</integer>
+								<integer>111</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -150,7 +124,7 @@
 					<key>rw:document:resources - file:///Users/josephfrost/code/gr/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-06-03T14:55:47Z</date>
+						<date>2023-06-03T15:53:19Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -243,116 +217,10 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
-					<key>rw:plugin:blog - file:///Users/josephfrost/code/gr/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2023-06-03T13:20:23Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>rss.gif</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ySu0h74kFZbd
-								w1d11rHDPA==
-								</data>
-								<key>Size</key>
-								<integer>219</integer>
-							</dict>
-							<key>smiley_angry.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								OsvBGlBtLs1C
-								xAB3/F5vkA==
-								</data>
-								<key>Size</key>
-								<integer>1275</integer>
-							</dict>
-							<key>smiley_embarrassed.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Ok+zrbTJSQbz
-								YHvbtXa5FQ==
-								</data>
-								<key>Size</key>
-								<integer>1310</integer>
-							</dict>
-							<key>smiley_footinmouth.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								oNlmERQNe+Jv
-								bhxYf6Q/sQ==
-								</data>
-								<key>Size</key>
-								<integer>1254</integer>
-							</dict>
-							<key>smiley_gasp.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								3fIF+LsL4I97
-								3PnZdsHYdg==
-								</data>
-								<key>Size</key>
-								<integer>1208</integer>
-							</dict>
-							<key>smiley_laugh.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								aiKkmJLIzkmw
-								I7ENY7ns/A==
-								</data>
-								<key>Size</key>
-								<integer>1283</integer>
-							</dict>
-							<key>smiley_sad.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								JrI6GFcEDYoD
-								NPeCi0NJDQ==
-								</data>
-								<key>Size</key>
-								<integer>1263</integer>
-							</dict>
-							<key>smiley_smile.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ek1FWaeOXYzG
-								u9xa5IUf6A==
-								</data>
-								<key>Size</key>
-								<integer>1240</integer>
-							</dict>
-							<key>smiley_wink.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								zIRR5aU+gUMZ
-								uXop1aVLFA==
-								</data>
-								<key>Size</key>
-								<integer>1236</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>rw:plugin:blog</string>
-						<key>SiteRoot</key>
-						<string>rw_common/plugins/blog</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>rw:theme:Climate - file:///Users/josephfrost/code/gr/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-06-03T15:20:12Z</date>
+						<date>2023-06-03T15:53:19Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -361,11 +229,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								EkfCcwDd4LDW
-								NoJz+V1ehA==
+								WU+biakrcDKl
+								XLgIwLQsEw==
 								</data>
 								<key>Size</key>
-								<integer>178829</integer>
+								<integer>178846</integer>
 							</dict>
 							<key>images/banners/default.jpg</key>
 							<dict>
@@ -515,7 +383,7 @@
 				MTNFLTRGMDEtQTRGQS1BQjI2NzhGNTM5OEZdR1JfT3Jh
 				bmdlLnBuZ18QJDg2QkNDMDE1LTJFOEItNDU2QS05NDVD
 				LTlGM0RBMTVFQjEzQtIATwAPAFAAUVdOUy50aW1lI0HF
-				FcjWYkidgA7SACYAJwBTAFRWTlNEYXRlogBTACvTAA0A
+				Fcy4QopZgA7SACYAJwBTAFRWTlNEYXRlogBTACvTAA0A
 				DgAPAFYAWABaoQBXgBChAFmAEYASXxAiZmlsZTovLy9V
 				c2Vycy9qb3NlcGhmcm9zdC9jb2RlL2dyLwjSACYAJwBe
 				AF9fEBNOU011dGFibGVEaWN0aW9uYXJ5owBeAGAAK1xO
@@ -533,7 +401,7 @@
 				IABtAGUAZQB0AGkAbgBnACAAcABhAGkAbgB0AGUAZAAg
 				AGIAeQAgAEIAYQBuAGsAcwB5AC4AcABuAGdfECQ2RTk2
 				NDVCNC00MTAzLTQzM0ItODgyMi1EMDIzMTQ4RkFERUXS
-				AE8ADwB1AFEjQcUVyNZiSMeADtMADQAOAA8AeAB6AFqh
+				AE8ADwB1AFEjQcUVzLhCipyADtMADQAOAA8AeAB6AFqh
 				AHmAG6EAWYARgBJfECJmaWxlOi8vL1VzZXJzL2pvc2Vw
 				aGZyb3N0L2NvZGUvZ3Iv0gAPAH8AgACBWU5TLnN0cmlu
 				Z4AdbxCLAC8AVQBzAGUAcgBzAC8AagBvAHMAZQBwAGgA
@@ -551,7 +419,7 @@
 				QjAtNzYwRS00MTJCLUI3NzItNkU1QjU2NUUyMUYwXxAQ
 				d2hpdGUtZmVkb3JhLnBuZ18QJEVFQjlCMTcwLTdGOTEt
 				NEY0NS1CMDQzLTc2MjVDQ0Y0OTMzNNIATwAPAJUAUSNB
-				xRXI1mJI2IAO0wANAA4ADwCYAJoAWqEAmYAkoQBZgBGA
+				xRXMuEKKrYAO0wANAA4ADwCYAJoAWqEAmYAkoQBZgBGA
 				El8QImZpbGU6Ly8vVXNlcnMvam9zZXBoZnJvc3QvY29k
 				ZS9nci9fEC0vVXNlcnMvam9zZXBoZnJvc3QvRG93bmxv
 				YWRzL3doaXRlLWZlZG9yYS5wbmfaADkAOgAPADsAPAA9
@@ -559,7 +427,7 @@
 				gACAAIArgCiAJ4AqgClfECQyMUU2RDU0RC04MjY3LTRG
 				MkMtOUI0QS1EREIwNTc0OTMxNzFfEBF5ZWxsb3ctZmVk
 				b3JhLnBuZ18QJEJEMUY1QTA3LTdEMjMtNEQ2MS1BNThE
-				LTY0M0ZFMUZERUEwNNIATwAPAK4AUSNBxRXI1mJI6YAO
+				LTY0M0ZFMUZERUEwNNIATwAPAK4AUSNBxRXMuEKKvYAO
 				0wANAA4ADwCxALMAWqEAsoAsoQBZgBGAEl8QImZpbGU6
 				Ly8vVXNlcnMvam9zZXBoZnJvc3QvY29kZS9nci9fEC4v
 				VXNlcnMvam9zZXBoZnJvc3QvRG93bmxvYWRzL3llbGxv
@@ -568,7 +436,7 @@
 				gC+AMoAxXxAkREU5NjNGMEEtNEVGMS00Q0FELUE1MTAt
 				MUU1MDdBMTY3OTU2XxAQYmxhY2stZmVkb3JhLnBuZ18Q
 				JDM2RTZGQUJFLUE3RjItNDlBRi04MjNBLUNFM0Y5MDZF
-				QjcwRdIATwAPAMcAUSNBxRXI1mJI+YAO0wANAA4ADwDK
+				QjcwRdIATwAPAMcAUSNBxRXMuEKKzoAO0wANAA4ADwDK
 				AMwAWqEAy4A0oQBZgBGAEl8QImZpbGU6Ly8vVXNlcnMv
 				am9zZXBoZnJvc3QvY29kZS9nci9fEC0vVXNlcnMvam9z
 				ZXBoZnJvc3QvRG93bmxvYWRzL2JsYWNrLWZlZG9yYS5w
@@ -577,7 +445,7 @@
 				NzlBNTcxRC03NTZFLTQ5NzQtQjlBQS0wNTdEMzQzNzQ5
 				MDFecmVkLWZlZG9yYS5wbmdfECRGMUZGOTNFMi03NzM5
 				LTQwQTctOEE0My05OTYzMTNFMTNGNEbSAE8ADwDgAFEj
-				QcUVyNZiSQqADtMADQAOAA8A4wDlAFqhAOSAPKEAWYAR
+				QcUVzLhCit+ADtMADQAOAA8A4wDlAFqhAOSAPKEAWYAR
 				gBJfECJmaWxlOi8vL1VzZXJzL2pvc2VwaGZyb3N0L2Nv
 				ZGUvZ3IvXxArL1VzZXJzL2pvc2VwaGZyb3N0L0Rvd25s
 				b2Fkcy9yZWQtZmVkb3JhLnBuZ9oAOQA6AA8AOwA8AD0A
@@ -585,7 +453,7 @@
 				AIAAgEOAQIA/gEKAQV8QJDY4QTUzMzdCLTU3OEMtNEM2
 				QS1CMTlELUUzMDNCNTE1RUQwRl8QEGdyZWVuLWZlZG9y
 				YS5wbmdfECRCODc4NEJFMy1CRTIzLTRCNzctQjAyNy1E
-				OTBGOEQ0ODMzQkXSAE8ADwD5AFEjQcUVyNZiSRuADtMA
+				OTBGOEQ0ODMzQkXSAE8ADwD5AFEjQcUVzLhCivCADtMA
 				DQAOAA8A/AD+AFqhAP2ARKEAWYARgBJfECJmaWxlOi8v
 				L1VzZXJzL2pvc2VwaGZyb3N0L2NvZGUvZ3IvXxAtL1Vz
 				ZXJzL2pvc2VwaGZyb3N0L0Rvd25sb2Fkcy9ncmVlbi1m
@@ -594,7 +462,7 @@
 				SoBJXxAkMjVCMzM4MzYtMzc4NS00NUY4LTk3RkQtQzcx
 				MzlGMTBGQTM3XxAPYmx1ZS1mZWRvcmEucG5nXxAkMTYx
 				M0EwRjItQ0M2Mi00MjczLUIyRUItMTVDQ0YyMDFBNkEw
-				0gBPAA8BEgBRI0HFFcjWYkk0gA7TAA0ADgAPARUBFwBa
+				0gBPAA8BEgBRI0HFFcy4QosAgA7TAA0ADgAPARUBFwBa
 				oQEWgEyhAFmAEYASXxAiZmlsZTovLy9Vc2Vycy9qb3Nl
 				cGhmcm9zdC9jb2RlL2dyL18QLC9Vc2Vycy9qb3NlcGhm
 				cm9zdC9Eb3dubG9hZHMvYmx1ZS1mZWRvcmEucG5n2gA5
@@ -604,7 +472,7 @@
 				dGNoXxAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0
 				Y2g/dj1VWjh2RjhIUldFNNMBKwAPASwARAEuASZXTlMu
 				YmFzZVtOUy5yZWxhdGl2ZYAAgFOAUdIAJgAnATEBMlVO
-				U1VSTKIBMQAr0gBPAA8BNABRI0HFFcjWYklFgA7TAA0A
+				U1VSTKIBMQAr0gBPAA8BNABRI0HFFcy4QosRgA7TAA0A
 				DgAPATcBOQBaoQE4gFahAFmAEYASXxAiZmlsZTovLy9V
 				c2Vycy9qb3NlcGhmcm9zdC9jb2RlL2dyL9IAJgAnAT4B
 				P1xSV1NpdGVGb2xkZXKiAUAAK1xSV1NpdGVGb2xkZXLS
@@ -775,13 +643,13 @@
 					<key>SiteLogoIdentifier</key>
 					<string>5F44266F-613E-4F01-A4FA-AB2678F5398F</string>
 					<key>SloganText</key>
-					<string>think different</string>
+					<string></string>
 					<key>SloganUsed</key>
 					<false/>
 					<key>ThemeName</key>
 					<string>Climate</string>
 					<key>TitleText</key>
-					<string>GR</string>
+					<string></string>
 					<key>TitleTextUsed</key>
 					<false/>
 					<key>UniqueBackupName</key>
@@ -796,7 +664,8 @@
 					<string></string>
 					<key>globalCSS</key>
 					<string>#hero {
-	height: 10vh;
+	height: 20vh;
+	font-size: 14px;
 }
 </string>
 					<key>globalHeader</key>
