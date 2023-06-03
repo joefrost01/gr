@@ -31,7 +31,7 @@
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
-				<string>styled</string>
+				<string>/</string>
 				<key>HasCustomThemeStyle</key>
 				<false/>
 				<key>ImageFormat</key>
@@ -39,7 +39,7 @@
 				<key>ImageQuality</key>
 				<string>High</string>
 				<key>IndexFilename</key>
-				<string>index.html</string>
+				<string>hats.html</string>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginHasPerformedMigrationToSharedData</key>

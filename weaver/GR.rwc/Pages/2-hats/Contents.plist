@@ -33,26 +33,26 @@
 					<key>file:///Users/josephfrost/code/gr/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-06-03T14:55:47Z</date>
+						<date>2023-06-03T15:16:12Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>index.html</key>
+							<key>hats.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								55riIce2tTsD
-								I51eotXfNg==
+								8Mqilmv6M6fr
+								gmxdx8YmyQ==
 								</data>
 								<key>Size</key>
-								<integer>7557</integer>
+								<integer>7595</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page1</string>
 						<key>SiteRoot</key>
-						<string>styled</string>
+						<string></string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>

@@ -16,7 +16,7 @@
 					<key>page0 - file:///Users/josephfrost/code/gr/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-06-03T14:55:47Z</date>
+						<date>2023-06-03T15:16:12Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -25,11 +25,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								oNobc0HUZJI+
-								QXUPAtjMqQ==
+								kZEyEtyxEvP4
+								wq24fmtsKA==
 								</data>
 								<key>Size</key>
-								<integer>4054</integer>
+								<integer>4058</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -42,26 +42,26 @@
 					<key>page1 - file:///Users/josephfrost/code/gr/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-06-03T14:55:47Z</date>
+						<date>2023-06-03T15:16:12Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>index.html</key>
+							<key>hats.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								55riIce2tTsD
-								I51eotXfNg==
+								8Mqilmv6M6fr
+								gmxdx8YmyQ==
 								</data>
 								<key>Size</key>
-								<integer>7557</integer>
+								<integer>7595</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page1</string>
 						<key>SiteRoot</key>
-						<string>styled</string>
+						<string></string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
@@ -94,7 +94,7 @@
 					<key>rw:document:extrafiles - file:///Users/josephfrost/code/gr/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-06-03T14:55:47Z</date>
+						<date>2023-06-03T15:16:12Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -123,11 +123,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								QfI5ofjDXmfp
-								wvlVr3NlYQ==
+								lYTy2fAeJ49q
+								8hk9Mdt/6w==
 								</data>
 								<key>Size</key>
-								<integer>255</integer>
+								<integer>311</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -505,7 +505,7 @@
 				MTNFLTRGMDEtQTRGQS1BQjI2NzhGNTM5OEZdR1JfT3Jh
 				bmdlLnBuZ18QJDg2QkNDMDE1LTJFOEItNDU2QS05NDVD
 				LTlGM0RBMTVFQjEzQtIATwAPAFAAUVdOUy50aW1lI0HF
-				FcX6F5CwgA7SACYAJwBTAFRWTlNEYXRlogBTACvTAA0A
+				FchesbMYgA7SACYAJwBTAFRWTlNEYXRlogBTACvTAA0A
 				DgAPAFYAWABaoQBXgBChAFmAEYASXxAiZmlsZTovLy9V
 				c2Vycy9qb3NlcGhmcm9zdC9jb2RlL2dyLwjSACYAJwBe
 				AF9fEBNOU011dGFibGVEaWN0aW9uYXJ5owBeAGAAK1xO
@@ -523,7 +523,7 @@
 				IABtAGUAZQB0AGkAbgBnACAAcABhAGkAbgB0AGUAZAAg
 				AGIAeQAgAEIAYQBuAGsAcwB5AC4AcABuAGdfECQ2RTk2
 				NDVCNC00MTAzLTQzM0ItODgyMi1EMDIzMTQ4RkFERUXS
-				AE8ADwB1AFEjQcUVxfoXkNqADtMADQAOAA8AeAB6AFqh
+				AE8ADwB1AFEjQcUVyF6xs1uADtMADQAOAA8AeAB6AFqh
 				AHmAG6EAWYARgBJfECJmaWxlOi8vL1VzZXJzL2pvc2Vw
 				aGZyb3N0L2NvZGUvZ3Iv0gAPAH8AgACBWU5TLnN0cmlu
 				Z4AdbxCLAC8AVQBzAGUAcgBzAC8AagBvAHMAZQBwAGgA
@@ -541,7 +541,7 @@
 				QjAtNzYwRS00MTJCLUI3NzItNkU1QjU2NUUyMUYwXxAQ
 				d2hpdGUtZmVkb3JhLnBuZ18QJEVFQjlCMTcwLTdGOTEt
 				NEY0NS1CMDQzLTc2MjVDQ0Y0OTMzNNIATwAPAJUAUSNB
-				xRXF+heQ64AO0wANAA4ADwCYAJoAWqEAmYAkoQBZgBGA
+				xRXIXrGzbIAO0wANAA4ADwCYAJoAWqEAmYAkoQBZgBGA
 				El8QImZpbGU6Ly8vVXNlcnMvam9zZXBoZnJvc3QvY29k
 				ZS9nci9fEC0vVXNlcnMvam9zZXBoZnJvc3QvRG93bmxv
 				YWRzL3doaXRlLWZlZG9yYS5wbmfaADkAOgAPADsAPAA9
@@ -549,7 +549,7 @@
 				gACAAIArgCiAJ4AqgClfECQyMUU2RDU0RC04MjY3LTRG
 				MkMtOUI0QS1EREIwNTc0OTMxNzFfEBF5ZWxsb3ctZmVk
 				b3JhLnBuZ18QJEJEMUY1QTA3LTdEMjMtNEQ2MS1BNThE
-				LTY0M0ZFMUZERUEwNNIATwAPAK4AUSNBxRXF+heQ+4AO
+				LTY0M0ZFMUZERUEwNNIATwAPAK4AUSNBxRXIXrGzhYAO
 				0wANAA4ADwCxALMAWqEAsoAsoQBZgBGAEl8QImZpbGU6
 				Ly8vVXNlcnMvam9zZXBoZnJvc3QvY29kZS9nci9fEC4v
 				VXNlcnMvam9zZXBoZnJvc3QvRG93bmxvYWRzL3llbGxv
@@ -558,7 +558,7 @@
 				gC+AMoAxXxAkREU5NjNGMEEtNEVGMS00Q0FELUE1MTAt
 				MUU1MDdBMTY3OTU2XxAQYmxhY2stZmVkb3JhLnBuZ18Q
 				JDM2RTZGQUJFLUE3RjItNDlBRi04MjNBLUNFM0Y5MDZF
-				QjcwRdIATwAPAMcAUSNBxRXF+heRDIAO0wANAA4ADwDK
+				QjcwRdIATwAPAMcAUSNBxRXIXrGzloAO0wANAA4ADwDK
 				AMwAWqEAy4A0oQBZgBGAEl8QImZpbGU6Ly8vVXNlcnMv
 				am9zZXBoZnJvc3QvY29kZS9nci9fEC0vVXNlcnMvam9z
 				ZXBoZnJvc3QvRG93bmxvYWRzL2JsYWNrLWZlZG9yYS5w
@@ -567,7 +567,7 @@
 				NzlBNTcxRC03NTZFLTQ5NzQtQjlBQS0wNTdEMzQzNzQ5
 				MDFecmVkLWZlZG9yYS5wbmdfECRGMUZGOTNFMi03NzM5
 				LTQwQTctOEE0My05OTYzMTNFMTNGNEbSAE8ADwDgAFEj
-				QcUVxfoXkRWADtMADQAOAA8A4wDlAFqhAOSAPKEAWYAR
+				QcUVyF6xs7eADtMADQAOAA8A4wDlAFqhAOSAPKEAWYAR
 				gBJfECJmaWxlOi8vL1VzZXJzL2pvc2VwaGZyb3N0L2Nv
 				ZGUvZ3IvXxArL1VzZXJzL2pvc2VwaGZyb3N0L0Rvd25s
 				b2Fkcy9yZWQtZmVkb3JhLnBuZ9oAOQA6AA8AOwA8AD0A
@@ -575,7 +575,7 @@
 				AIAAgEOAQIA/gEKAQV8QJDY4QTUzMzdCLTU3OEMtNEM2
 				QS1CMTlELUUzMDNCNTE1RUQwRl8QEGdyZWVuLWZlZG9y
 				YS5wbmdfECRCODc4NEJFMy1CRTIzLTRCNzctQjAyNy1E
-				OTBGOEQ0ODMzQkXSAE8ADwD5AFEjQcUVxfoXkSWADtMA
+				OTBGOEQ0ODMzQkXSAE8ADwD5AFEjQcUVyF6xs9CADtMA
 				DQAOAA8A/AD+AFqhAP2ARKEAWYARgBJfECJmaWxlOi8v
 				L1VzZXJzL2pvc2VwaGZyb3N0L2NvZGUvZ3IvXxAtL1Vz
 				ZXJzL2pvc2VwaGZyb3N0L0Rvd25sb2Fkcy9ncmVlbi1m
@@ -584,7 +584,7 @@
 				SoBJXxAkMjVCMzM4MzYtMzc4NS00NUY4LTk3RkQtQzcx
 				MzlGMTBGQTM3XxAPYmx1ZS1mZWRvcmEucG5nXxAkMTYx
 				M0EwRjItQ0M2Mi00MjczLUIyRUItMTVDQ0YyMDFBNkEw
-				0gBPAA8BEgBRI0HFFcX6F5E2gA7TAA0ADgAPARUBFwBa
+				0gBPAA8BEgBRI0HFFchesbPhgA7TAA0ADgAPARUBFwBa
 				oQEWgEyhAFmAEYASXxAiZmlsZTovLy9Vc2Vycy9qb3Nl
 				cGhmcm9zdC9jb2RlL2dyL18QLC9Vc2Vycy9qb3NlcGhm
 				cm9zdC9Eb3dubG9hZHMvYmx1ZS1mZWRvcmEucG5n2gA5
@@ -594,7 +594,7 @@
 				dGNoXxAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0
 				Y2g/dj1VWjh2RjhIUldFNNMBKwAPASwARAEuASZXTlMu
 				YmFzZVtOUy5yZWxhdGl2ZYAAgFOAUdIAJgAnATEBMlVO
-				U1VSTKIBMQAr0gBPAA8BNABRI0HFFcX6F5E/gA7TAA0A
+				U1VSTKIBMQAr0gBPAA8BNABRI0HFFchesbPygA7TAA0A
 				DgAPATcBOQBaoQE4gFahAFmAEYASXxAiZmlsZTovLy9V
 				c2Vycy9qb3NlcGhmcm9zdC9jb2RlL2dyL9IAJgAnAT4B
 				P1xSV1NpdGVGb2xkZXKiAUAAK1xSV1NpdGVGb2xkZXLS
